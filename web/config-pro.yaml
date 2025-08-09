@@ -1,0 +1,24 @@
+name: 'web'
+port: 8021
+user_srv:
+  host: '127.0.0.1'
+  port: 50051
+
+jwt:
+  key: 'K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW'
+
+
+sms:
+  key: ''
+  secret: ''
+
+redis:
+  host: '127.0.0.1'
+  port: 6379
+
+consul:
+  host: '192.168.21.132'
+  port: 8500
+
+debug:
+  status: false
