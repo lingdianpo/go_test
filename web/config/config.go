@@ -3,6 +3,7 @@ package config
 type UserSrvConfig struct {
 	Host string `mapstructure:"host"`
 	Port int    `mapstructure:"port"`
+	Name string `mapstructure:"name"`
 }
 
 type JWTConfig struct {
@@ -15,8 +16,9 @@ type AliSmsConfig struct {
 }
 
 type RedisConfig struct {
-	Host string `mapstructure:"host"`
-	Port int    `mapstructure:"port"`
+	Host   string `mapstructure:"host"`
+	Port   int    `mapstructure:"port"`
+	Expire int    `mapstructure:"expire"`
 }
 
 type ConsulConfig struct {

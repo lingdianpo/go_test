@@ -2,14 +2,16 @@ package main
 
 import (
 	"fmt"
+	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
 	ut "github.com/go-playground/universal-translator"
 	"github.com/go-playground/validator/v10"
 	"go.uber.org/zap"
-	"test/web/global"
-	"test/web/initialize"
-	"test/web/utils"
-	myvalidator "test/web/validator"
+	"go_test/web/global"
+	"go_test/web/initialize"
+	"go_test/web/utils"
+
+	myvalidator "go_test/web/validator"
 )
 
 func main() {
@@ -19,6 +21,8 @@ func main() {
 	initialize.ConfigInit()
 	//3. 初始化routers
 	Router := initialize.RouterInit()
+	// 4. 初始化srv连接
+	initialize.InitSrvConn()
 	//4. 初始化翻译
 	if err := initialize.InitTrans("zh"); err != nil {
 		panic(err)
@@ -36,6 +40,7 @@ func main() {
 
 	debug := global.ServerConfig.DebugInfo.Status
 	zap.S().Info(debug)
+	gin.Logger()
 	if !debug {
 		port, err := utils.GetFreePort()
 		if err == nil {

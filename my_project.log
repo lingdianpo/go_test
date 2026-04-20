@@ -1,0 +1,155 @@
+{"level":"info","ts":1756907472.7821817,"caller":"initialize/config.go:42","msg":"配置信息: &v%!(EXTRA *config.ServerConfig=&{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {127.0.0.1 6379} {192.168.21.132 8500} {true}})"}
+{"level":"info","ts":1756907472.7826984,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1756907472.7826984,"caller":"web/main.go:40","msg":"true"}
+{"level":"info","ts":1756907472.7832217,"caller":"web/main.go:53","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1756908808.757096,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {127.0.0.1 6379} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1756908808.7581682,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1756908808.7581682,"caller":"web/main.go:40","msg":"true"}
+{"level":"info","ts":1756908808.7581682,"caller":"web/main.go:53","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1756908911.5055814,"caller":"initialize/config.go:42","msg":"配置信息: &&{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {127.0.0.1 6379} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1756908911.5066206,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1756908911.5066206,"caller":"web/main.go:40","msg":"true"}
+{"level":"info","ts":1756908911.5066206,"caller":"web/main.go:53","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1756908934.3768067,"caller":"initialize/config.go:42","msg":"配置信息: *&{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {127.0.0.1 6379} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1756908934.377323,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1756908934.377323,"caller":"web/main.go:40","msg":"true"}
+{"level":"info","ts":1756908934.377323,"caller":"web/main.go:53","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1775547602.6740913,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {127.0.0.1 6379} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1775547602.6746135,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1775547602.6751695,"caller":"web/main.go:40","msg":"true"}
+{"level":"info","ts":1775547602.6751695,"caller":"web/main.go:53","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776060561.0175142,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {127.0.0.1 6379} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1776060561.018568,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1776060561.018568,"caller":"web/main.go:40","msg":"true"}
+{"level":"info","ts":1776060561.0191514,"caller":"web/main.go:53","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776067550.371699,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {127.0.0.1 6379 15} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1776067550.3722422,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1776067550.3728292,"caller":"web/main.go:40","msg":"true"}
+{"level":"info","ts":1776067550.3728292,"caller":"web/main.go:53","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776067585.6105072,"caller":"initialize/config.go:47","msg":"配置文件产生变化: web\\config-debug.yaml"}
+{"level":"info","ts":1776067585.6110182,"caller":"initialize/config.go:50","msg":"配置信息: &{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1776067585.6115837,"caller":"initialize/config.go:47","msg":"配置文件产生变化: web\\config-debug.yaml"}
+{"level":"info","ts":1776067585.6115837,"caller":"initialize/config.go:50","msg":"配置信息: &{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1776141157.2117882,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1776141157.2128847,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1776141157.213412,"caller":"web/main.go:40","msg":"true"}
+{"level":"info","ts":1776141157.213412,"caller":"web/main.go:53","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776155686.4256582,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {127.0.0.1 50051} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.21.132 8500} {true}}"}
+{"level":"info","ts":1776155686.4266996,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1776155686.4266996,"caller":"web/main.go:40","msg":"true"}
+{"level":"info","ts":1776155686.4266996,"caller":"web/main.go:53","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776162861.5993571,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user_srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776162861.6004112,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"fatal","ts":1776162861.6041474,"caller":"initialize/srv_conn.go:72","msg":"用户服务[不可达]","stacktrace":"go_test/web/initialize.InitSrvConn\n\tD:/git/go_test/web/initialize/srv_conn.go:72\nmain.main\n\tD:/git/go_test/web/main.go:25\nruntime.main\n\tD:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"info","ts":1776162942.7851238,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user_srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776162942.7856476,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"fatal","ts":1776162942.7893612,"caller":"initialize/srv_conn.go:72","msg":"用户服务[不可达]","stacktrace":"go_test/web/initialize.InitSrvConn\n\tD:/git/go_test/web/initialize/srv_conn.go:72\nmain.main\n\tD:/git/go_test/web/main.go:25\nruntime.main\n\tD:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"info","ts":1776162972.2225134,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user_srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776162972.2236025,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"fatal","ts":1776163042.493735,"caller":"initialize/srv_conn.go:72","msg":"用户服务[不可达]","stacktrace":"go_test/web/initialize.InitSrvConn\n\tD:/git/go_test/web/initialize/srv_conn.go:72\nmain.main\n\tD:/git/go_test/web/main.go:25\nruntime.main\n\tD:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"info","ts":1776163070.8126035,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user_srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776163070.81312,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"fatal","ts":1776163833.8762388,"caller":"initialize/srv_conn.go:72","msg":"用户服务[不可达]","stacktrace":"go_test/web/initialize.InitSrvConn\n\tD:/git/go_test/web/initialize/srv_conn.go:72\nmain.main\n\tD:/git/go_test/web/main.go:25\nruntime.main\n\tD:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"info","ts":1776164929.2768042,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user_srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776164929.283894,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"fatal","ts":1776164929.2994905,"caller":"initialize/srv_conn.go:72","msg":"用户服务[不可达]","stacktrace":"go_test/web/initialize.InitSrvConn\n\tD:/git/go_test/web/initialize/srv_conn.go:72\nmain.main\n\tD:/git/go_test/web/main.go:25\nruntime.main\n\tD:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"info","ts":1776164981.438627,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user_srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776164981.438627,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"fatal","ts":1776164981.4425354,"caller":"initialize/srv_conn.go:73","msg":"用户服务[不可达]","stacktrace":"go_test/web/initialize.InitSrvConn\n\tD:/git/go_test/web/initialize/srv_conn.go:73\nmain.main\n\tD:/git/go_test/web/main.go:25\nruntime.main\n\tD:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"info","ts":1776165038.796826,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user_srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776165038.797343,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"fatal","ts":1776165038.8019304,"caller":"initialize/srv_conn.go:75","msg":"用户服务[不可达]","stacktrace":"go_test/web/initialize.InitSrvConn\n\tD:/git/go_test/web/initialize/srv_conn.go:75\nmain.main\n\tD:/git/go_test/web/main.go:25\nruntime.main\n\tD:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"info","ts":1776165108.2157655,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user_srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776165108.2162838,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"fatal","ts":1776165108.221244,"caller":"initialize/srv_conn.go:76","msg":"用户服务[不可达]","stacktrace":"go_test/web/initialize.InitSrvConn\n\tD:/git/go_test/web/initialize/srv_conn.go:76\nmain.main\n\tD:/git/go_test/web/main.go:25\nruntime.main\n\tD:/Program Files/Go/src/runtime/proc.go:283"}
+{"level":"info","ts":1776165158.9348679,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user-srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776165158.9348679,"caller":"router/user.go:12","msg":"配置用户相关url"}
+{"level":"info","ts":1776165158.9396834,"caller":"initialize/srv_conn.go:67","msg":"consul：&{ user-srv user-srv [shop booby python api] map[] %!s(int=50052) 192.168.1.10  map[lan_ipv4:{192.168.1.10 %!s(int=50052)} wan_ipv4:{192.168.1.10 %!s(int=50052)}] {%!s(int=1) %!s(int=1)} %!s(bool=false) %!s(uint64=0) %!s(uint64=0)  %!s(*api.AgentServiceConnectProxyConfig=<nil>) %!s(*api.AgentServiceConnect=<nil>)    dc1 %!s(*api.Locality=<nil>)}"}
+{"level":"info","ts":1776165158.9396834,"caller":"initialize/srv_conn.go:68","msg":"consul 键值：user-srv"}
+{"level":"info","ts":1776165158.9401977,"caller":"initialize/srv_conn.go:77","msg":"链接[用户服务] :192.168.1.10:50052"}
+{"level":"info","ts":1776165158.9401977,"caller":"web/main.go:42","msg":"true"}
+{"level":"info","ts":1776165158.9401977,"caller":"web/main.go:55","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776165446.8969643,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user-srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776165446.8975017,"caller":"router/user.go:11","msg":"配置用户相关url"}
+{"level":"info","ts":1776165446.9020905,"caller":"initialize/srv_conn.go:67","msg":"consul：&{ user-srv user-srv [shop booby python api] map[] %!s(int=50052) 192.168.1.10  map[lan_ipv4:{192.168.1.10 %!s(int=50052)} wan_ipv4:{192.168.1.10 %!s(int=50052)}] {%!s(int=1) %!s(int=1)} %!s(bool=false) %!s(uint64=0) %!s(uint64=0)  %!s(*api.AgentServiceConnectProxyConfig=<nil>) %!s(*api.AgentServiceConnect=<nil>)    dc1 %!s(*api.Locality=<nil>)}"}
+{"level":"info","ts":1776165446.9020905,"caller":"initialize/srv_conn.go:68","msg":"consul 键值：user-srv"}
+{"level":"info","ts":1776165446.9026363,"caller":"initialize/srv_conn.go:77","msg":"链接[用户服务] :192.168.1.10:50052"}
+{"level":"info","ts":1776165446.9026363,"caller":"web/main.go:42","msg":"true"}
+{"level":"info","ts":1776165446.9026363,"caller":"web/main.go:55","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776172901.4375174,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user-srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776172901.4380374,"caller":"router/user.go:11","msg":"配置用户相关url"}
+{"level":"info","ts":1776172901.4771922,"caller":"initialize/srv_conn.go:67","msg":"consul：&{ user-srv user-srv [shop booby python api] map[] %!s(int=50052) 192.168.1.10  map[lan_ipv4:{192.168.1.10 %!s(int=50052)} wan_ipv4:{192.168.1.10 %!s(int=50052)}] {%!s(int=1) %!s(int=1)} %!s(bool=false) %!s(uint64=0) %!s(uint64=0)  %!s(*api.AgentServiceConnectProxyConfig=<nil>) %!s(*api.AgentServiceConnect=<nil>)    dc1 %!s(*api.Locality=<nil>)}"}
+{"level":"info","ts":1776172901.4771922,"caller":"initialize/srv_conn.go:68","msg":"consul 键值：user-srv"}
+{"level":"info","ts":1776172901.4776967,"caller":"initialize/srv_conn.go:77","msg":"链接[用户服务] :192.168.1.10:50052"}
+{"level":"info","ts":1776172901.4782157,"caller":"web/main.go:42","msg":"true"}
+{"level":"info","ts":1776172901.4782157,"caller":"web/main.go:55","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776173122.586807,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user-srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776173122.587328,"caller":"router/user.go:11","msg":"配置用户相关url"}
+{"level":"info","ts":1776173122.5937586,"caller":"initialize/srv_conn.go:67","msg":"consul：&{ user-srv user-srv [shop booby python api] map[] %!s(int=50052) 192.168.1.10  map[lan_ipv4:{192.168.1.10 %!s(int=50052)} wan_ipv4:{192.168.1.10 %!s(int=50052)}] {%!s(int=1) %!s(int=1)} %!s(bool=false) %!s(uint64=0) %!s(uint64=0)  %!s(*api.AgentServiceConnectProxyConfig=<nil>) %!s(*api.AgentServiceConnect=<nil>)    dc1 %!s(*api.Locality=<nil>)}"}
+{"level":"info","ts":1776173122.5937586,"caller":"initialize/srv_conn.go:68","msg":"consul 键值：user-srv"}
+{"level":"info","ts":1776173122.5942993,"caller":"initialize/srv_conn.go:77","msg":"链接[用户服务] :192.168.1.10:50052"}
+{"level":"info","ts":1776173122.5942993,"caller":"web/main.go:42","msg":"true"}
+{"level":"info","ts":1776173122.5942993,"caller":"web/main.go:55","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776173126.8071854,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776173126.8071854,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"error","ts":1776173128.8721251,"caller":"api/user.go:96","msg":"[GetUserList] 查询 【用户列表】失败","stacktrace":"go_test/web/api.GetUserList\n\tD:/git/go_test/web/api/user.go:96\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:644\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:600\nnet/http.serverHandler.ServeHTTP\n\tD:/Program Files/Go/src/net/http/server.go:3301\nnet/http.(*conn).serve\n\tD:/Program Files/Go/src/net/http/server.go:2102"}
+{"level":"info","ts":1776173152.5452282,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776173152.5452282,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776173190.8798456,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776173190.8798456,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776173249.3450751,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776173249.3454795,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776173264.364349,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776173264.364349,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776173314.6583214,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776173314.6583214,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776223887.365264,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user-srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776223887.3657901,"caller":"router/user.go:11","msg":"配置用户相关url"}
+{"level":"info","ts":1776223887.3663485,"caller":"initialize/srv_conn.go:21","msg":"[InitSrvConn] 连接 【用户服务成功】"}
+{"level":"info","ts":1776223887.3669097,"caller":"web/main.go:42","msg":"true"}
+{"level":"info","ts":1776223887.3669097,"caller":"web/main.go:55","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776223930.8424122,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776223930.8424122,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"error","ts":1776223930.8424122,"caller":"api/user.go:96","msg":"[GetUserList] 查询 【用户列表】失败","stacktrace":"go_test/web/api.GetUserList\n\tD:/git/go_test/web/api/user.go:96\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:644\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:600\nnet/http.serverHandler.ServeHTTP\n\tD:/Program Files/Go/src/net/http/server.go:3301\nnet/http.(*conn).serve\n\tD:/Program Files/Go/src/net/http/server.go:2102"}
+{"level":"info","ts":1776231926.9823616,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user-srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776231926.9834363,"caller":"router/user.go:11","msg":"配置用户相关url"}
+{"level":"info","ts":1776231926.9839509,"caller":"initialize/srv_conn.go:23","msg":"[InitSrvConn] 连接 【用户服务成功】"}
+{"level":"info","ts":1776231926.9845207,"caller":"web/main.go:42","msg":"true"}
+{"level":"info","ts":1776231926.9845207,"caller":"web/main.go:55","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776231940.6397927,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776231940.6397927,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776231948.7862556,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776231948.7862556,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776232091.8765512,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776232091.8782053,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776232092.3761728,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776232092.3761728,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776232093.3735785,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776232093.373967,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776232094.4649487,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776232094.4649487,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776232096.8629518,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776232096.8635817,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776232097.4543068,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776232097.4543068,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776323333.8932087,"caller":"initialize/config.go:42","msg":"配置信息: &{web 8021 {192.168.1.10 50051 user-srv} {K2Mcm98G%X6xvRJHzT6TQsZg5CWLv6KW} { } {192.168.21.135 6380 15} {192.168.1.11 8500} {true}}"}
+{"level":"info","ts":1776323333.893757,"caller":"router/user.go:11","msg":"配置用户相关url"}
+{"level":"info","ts":1776323333.89427,"caller":"initialize/srv_conn.go:23","msg":"[InitSrvConn] 连接 【用户服务成功】"}
+{"level":"info","ts":1776323333.89427,"caller":"web/main.go:42","msg":"true"}
+{"level":"info","ts":1776323333.89427,"caller":"web/main.go:55","msg":"启动服务器，端口 8021"}
+{"level":"info","ts":1776323390.7938693,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776323390.7938693,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"error","ts":1776323390.8142889,"caller":"api/user.go:96","msg":"[GetUserList] 查询 【用户列表】失败","stacktrace":"go_test/web/api.GetUserList\n\tD:/git/go_test/web/api/user.go:96\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:644\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:600\nnet/http.serverHandler.ServeHTTP\n\tD:/Program Files/Go/src/net/http/server.go:3301\nnet/http.(*conn).serve\n\tD:/Program Files/Go/src/net/http/server.go:2102"}
+{"level":"info","ts":1776323435.352207,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776323435.352207,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"error","ts":1776323435.3601158,"caller":"api/user.go:96","msg":"[GetUserList] 查询 【用户列表】失败","stacktrace":"go_test/web/api.GetUserList\n\tD:/git/go_test/web/api/user.go:96\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:644\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:600\nnet/http.serverHandler.ServeHTTP\n\tD:/Program Files/Go/src/net/http/server.go:3301\nnet/http.(*conn).serve\n\tD:/Program Files/Go/src/net/http/server.go:2102"}
+{"level":"info","ts":1776323796.5197113,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776323796.5197113,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"error","ts":1776323796.5337908,"caller":"api/user.go:96","msg":"[GetUserList] 查询 【用户列表】失败","stacktrace":"go_test/web/api.GetUserList\n\tD:/git/go_test/web/api/user.go:96\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:644\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:600\nnet/http.serverHandler.ServeHTTP\n\tD:/Program Files/Go/src/net/http/server.go:3301\nnet/http.(*conn).serve\n\tD:/Program Files/Go/src/net/http/server.go:2102"}
+{"level":"info","ts":1776324105.9336612,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776324105.9336612,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"info","ts":1776324132.4858284,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776324132.4858284,"caller":"api/user.go:89","msg":"pSizeInt:2"}
+{"level":"error","ts":1776324134.5289545,"caller":"api/user.go:96","msg":"[GetUserList] 查询 【用户列表】失败","stacktrace":"go_test/web/api.GetUserList\n\tD:/git/go_test/web/api/user.go:96\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:644\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tC:/Users/32107/go/pkg/mod/github.com/gin-gonic/gin@v1.10.1/gin.go:600\nnet/http.serverHandler.ServeHTTP\n\tD:/Program Files/Go/src/net/http/server.go:3301\nnet/http.(*conn).serve\n\tD:/Program Files/Go/src/net/http/server.go:2102"}
+{"level":"info","ts":1776324149.3309102,"caller":"api/user.go:88","msg":"pnInt:0"}
+{"level":"info","ts":1776324149.3309102,"caller":"api/user.go:89","msg":"pSizeInt:2"}

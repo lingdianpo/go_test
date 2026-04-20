@@ -2,9 +2,9 @@ package initialize
 
 import (
 	"github.com/gin-gonic/gin"
+	"go_test/web/middlewares"
+	"go_test/web/router"
 	"net/http"
-	"test/web/middlewares"
-	"test/web/router"
 )
 
 func RouterInit() *gin.Engine {

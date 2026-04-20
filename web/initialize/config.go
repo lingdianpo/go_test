@@ -5,7 +5,7 @@ import (
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
 	"go.uber.org/zap"
-	"test/web/global"
+	"go_test/web/global"
 )
 
 type ServerConfig struct {
@@ -39,7 +39,7 @@ func ConfigInit() {
 	if err := v.Unmarshal(global.ServerConfig); err != nil {
 		panic(err)
 	}
-	zap.S().Infof("配置信息: &v", global.ServerConfig)
+	zap.S().Infof("配置信息: %v", global.ServerConfig)
 	//fmt.Println(v.Get("name"))
 
 	v.WatchConfig()
@@ -47,6 +47,6 @@ func ConfigInit() {
 		zap.S().Infof("配置文件产生变化: %s", e.Name)
 		_ = v.ReadInConfig()
 		_ = v.Unmarshal(global.ServerConfig)
-		zap.S().Infof("配置信息: &v", global.ServerConfig)
+		zap.S().Infof("配置信息: %v", global.ServerConfig)
 	})
 }

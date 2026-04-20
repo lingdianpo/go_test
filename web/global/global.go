@@ -2,8 +2,8 @@ package global
 
 import (
 	ut "github.com/go-playground/universal-translator"
-	"test/web/config"
-	"test/web/proto"
+	"go_test/web/config"
+	"go_test/web/proto"
 )
 
 var (

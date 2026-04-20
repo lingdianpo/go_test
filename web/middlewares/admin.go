@@ -2,8 +2,8 @@ package middlewares
 
 import (
 	"github.com/gin-gonic/gin"
+	"go_test/web/models"
 	"net/http"
-	"test/web/models"
 )
 
 func IsAdminAuth() gin.HandlerFunc {
